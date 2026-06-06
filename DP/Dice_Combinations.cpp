@@ -43,3 +43,9 @@ signed main() {
     // }
     return 0;
 }
+/*
+state = n+1
+transition = 6 times loop
+tc = O(n)
+sc = O(n) 
+*/
