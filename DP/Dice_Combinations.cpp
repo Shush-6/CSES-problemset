@@ -5,6 +5,10 @@ using namespace std;
 #define int long long
  const int mod = 1e9+7;
  
+// Never forget how widely capable you are.
+// Chase Excellence to Escape mediocrity.
+//Don't leave until you do it, It is Easy trust yourself.
+ 
 /*  Thought process
 
 */
@@ -39,10 +43,13 @@ signed main() {
     // }
     return 0;
 }
+<<<<<<< HEAD
 // Never forget how widely capable you are.
 // Chase Excellence to Escape mediocrity.
 //Don't leave until you do it, It is Easy trust yourself.
 
+=======
+>>>>>>> b089712345c9fc30f46cbb511f67082af3813b0c
 /*
 state = n+1
 transition = 6 times loop
