@@ -49,5 +49,6 @@ signed main() {
 state = sum+1
 transition = n times loop
 tc = O(n*sum)
-sc = O(sum+n) 
+sc = O(sum+n)
+ 
 */
