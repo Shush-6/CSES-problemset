@@ -11,7 +11,7 @@ using namespace std;
 */
 void solve(){
    int n,sum;
-   cin >> n>> sum;  
+   cin >> n>> sum;
    vector<int>a(n);
    for(int i=0;i<n;i++){
        cin >> a[i];
