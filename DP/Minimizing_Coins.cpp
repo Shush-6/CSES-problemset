@@ -20,7 +20,7 @@ void solve(){
    dp[0] = 0;
    for(int i=1;i<=sum;i++){
     for(const int &coin:a){
-        if(i>=coin && dp[i-coin]!=INF){
+        if(i>=coin && dp[i-coin]!=INF ){
             dp[i] = min(dp[i],1+dp[i-coin]);
         }
     }
