@@ -51,8 +51,8 @@ signed main() {
 =======
 >>>>>>> b089712345c9fc30f46cbb511f67082af3813b0c
 /*
-state = n+1
-transition = 6 times loop
+state = dp(n)= no of ways to get a sum of n
+transition =  sum=(sum+dynamic(n-i,dp))
 tc = O(n)
 sc = O(n) 
 */
